@@ -182,7 +182,7 @@ nav.desktop-nav ul li a:hover {
 }
 
 .showcase-wrapper {
-    background-image: url(/images/bg3.jpg);
+    background-image: url(/bg3.jpg);
     height: 80vh;
     background-size: cover;
     background-position: center;
@@ -307,7 +307,7 @@ nav.desktop-nav ul li a:hover {
 }
 
 .project-page {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/images/bg4.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/bg4.jpg);
     height: 60vh;
     background-size: cover;
     background-position: center;
@@ -778,7 +778,7 @@ footer p {
     }
 
     .showcase-wrapper {
-        background-image: url(/images/bg3.jpg);
+        background-image: url(/bg3.jpg);
         height: 60vh;
         background-size: cover;
         background-position: center;
@@ -786,7 +786,7 @@ footer p {
     }
 
     .project-page {
-        background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/images/bg4.jpg);
+        background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/bg4.jpg);
         height: 60vh;
         background-size: cover;
         background-position: center;
