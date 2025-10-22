@@ -778,7 +778,7 @@ footer p {
     }
 
     .showcase-wrapper {
-        background-image: url(/bg3.jpg);
+        background-image: url(bg3.jpg);
         height: 60vh;
         background-size: cover;
         background-position: center;
