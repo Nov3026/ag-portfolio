@@ -318,7 +318,10 @@ nav.desktop-nav ul li a:hover {
 .project {
     margin-bottom: 4rem;
 }
-
+.project-header {
+    
+    margin-top: 10rem;
+}
 .project-header h1 {
     font-size: 3.2rem;
     color: #E67300;
@@ -326,7 +329,7 @@ nav.desktop-nav ul li a:hover {
 }
 
 .project-header p {
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     margin-bottom: 3rem;
     color: #fff;
 }
@@ -651,9 +654,9 @@ footer p {
 
     #nav-drawer ul li a {
         font-size: 18px;
-    }
+    }git
 
-    .contact-container applicant {
+    .contact-container {
         width: 90%;
         padding: 20px;
     }
@@ -711,11 +714,32 @@ footer p {
     .social-item img {
         width: 40px;
     }
-
+    .border-bottom-1{
+        margin-bottom: 15px;
+        border: 1px solid #E67300;
+    }
     .logo {
         margin-bottom: 10px;
     }
-
+    .logo-1{
+         display: flex;
+        align-items: center;
+        margin-left: 15px;
+        margin-bottom: 10px;
+    }
+    .logo-1 p{
+        color: #fff;
+        font-size: 14px;
+    }
+    .logo-1 img {
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+        margin-right: 5px;
+    }
+    .contact-wrapper{
+        display: none;
+    }
     .cont-info:hover {
         background: none;
         border: 1px solid #333;
