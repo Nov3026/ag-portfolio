@@ -182,7 +182,7 @@ nav.desktop-nav ul li a:hover {
 }
 
 .showcase-wrapper {
-    background-image: url(bg3.jpg);
+    background-image: url('img/bg3.jpg');
     height: 80vh;
     background-size: cover;
     background-position: center;
@@ -257,6 +257,7 @@ nav.desktop-nav ul li a:hover {
 
 .intro {
     display: flex;
+    margin-bottom: 4rem;
 }
 
 .intro img {
@@ -321,7 +322,7 @@ nav.desktop-nav ul li a:hover {
 .project-header h1 {
     font-size: 3.2rem;
     color: #E67300;
-    margin-top: 14rem;
+
 }
 
 .project-header p {
@@ -925,6 +926,7 @@ footer p {
 .btn-submit:hover {
     background-color: #cc5c00;
 }
+
 }
 /* Smooth Slide-Down Animation */
 @keyframes slideDown {
